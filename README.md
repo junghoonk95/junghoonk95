@@ -5,7 +5,7 @@
 - 🌱 I’m currently Studying ML Algorithm & Recommendation System
 - :star2: Just started learning Recommendation System using GNN
 - :clap: Graduated 2022 spring! 
-- :pray: Started Internship at Daewoong Pharmaceuticals as a "Customer Relationship Management Analyst" and "Data Scientist"
+- :pray: Started Internship at Daewoong Pharmaceuticals as a **"Customer Relationship Management Analyst" and "Data Scientist"**
 - :fire: Working on CRM **data migration** from current system to Salesforce CRM system
 - :fire: **Developing recommendation systems** for current/potential customer
 
