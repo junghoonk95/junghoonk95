@@ -5,12 +5,18 @@
 - 통계학과 데이터 사이언스학을 전공하였으며 다양한 프로그래밍 언어(Python ,SQL, R, Julia) 그리고 머신 러닝 기법(Scikit-learn 등)을 다루고 있습니다.
 - :office: 삼성 SDS IT혁신사업부 사업기획팀(2021.06 ~ 2021.08)
   - 메타버스 미술관 프로젝트 기획팀에 참여, 머신러닝 분석 및 비즈니스 인사이트(솔루션) 도출
+
+
+- University of Wisconsin - Madison, Class of 2022 (2018.09 ~ 2022.05)
+  - Bachelor of Science - Statistics, Data Science
+  - Certificate in Mathematics
+
 - :office: 대웅제약 CRM혁신 TF팀 (2022.07 ~ 2022.10)
   -  회사내 고객과의 접점에서 발생되는 모든 데이터를 고객 중심으로 분석
   -  Salesforce CRM FAQ 센터 기획 및 사이트 구축
   -  일/월/연 매출 및 고객 접점 데이터 종합한 대시보드 기획
 
-- :new: **SKT FLY AI Challenger** (2022.12.19 ~ )
+- :new: **SKT FLY AI Challenger** (2022.12 ~ 2023.02 )
   - SKT AI 부스트캠프인 **SKT FLY AI Challenger**에 참여하게 되었습니다.
 
 
@@ -24,7 +30,7 @@
   - :fire: Working on CRM **data migration** from current system to Salesforce CRM system
   - :fire: **Developing recommendation systems** for current/potential customer
 
-- :snowflake: From this winter, I am starting **SKT FLY AI Challenger**(12.19.2022~)
+- :snowflake: From this winter, I am starting **SKT FLY AI Challenger**(12.2022 ~ 02.2023)
   - The goal of **SKT FLY AI Challenger** is for the participants to study AI knowledge and eventually become able to solve engineering problems in actual job situations.
   - [Related page](https://www.skttechacademy.com/nonmember/community/communityList)
 
